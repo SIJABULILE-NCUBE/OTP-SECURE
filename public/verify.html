@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Verify Otp</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="card">
+    <h1>Verify Otp</h1>
+
+    <!-- this is not a login screen either -->
+    <!-- it just checks if the email and code combination is valid -->
+    <input type="email" id="email" placeholder="Enter your email" />
+    <input type="text" id="code" placeholder="Enter the otp code" maxlength="6" />
+
+    <button id="verifyBtn">Verify Otp</button>
+
+    <p id="message"></p>
+
+    <a href="send.html">Go back to send screen</a>
+  </div>
+
+  <script src="verify.js"></script>
+</body>
+</html>
