@@ -1,4 +1,4 @@
--- this table stores every otp that gets generated
+-- this table stored every otp that I generated
 -- i went with one table for everything instead of splitting it up
 -- it keeps things simpler while i am still learning how this all works
 
