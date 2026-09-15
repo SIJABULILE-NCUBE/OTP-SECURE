@@ -10,9 +10,9 @@ module.exports = {
   OTP_EXPIRY_SECONDS: 30,
 
   // if someone hits resend within this many minutes of the otp being made
-  // we send back the same code instead of making a brand new one
+  //  send back the same code instead of making a brand new one
   RESEND_WINDOW_MINUTES: 5,
 
-  // the most times one single otp is allowed to be resent
+  // max resend limit
   MAX_RESENDS: 3
 };

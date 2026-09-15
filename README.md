@@ -48,3 +48,7 @@ The spec did not say what should happen if someone clicks resend after the 5 min
 Notes
 
 Since this is just a practice project, actual emails are not sent. The otp code gets logged to the terminal instead, so the whole flow can still be tested from end to end.
+
+##links
+Github: https://github.com/SIJABULILE-NCUBE/OTP-SECURE
+Loom video:
