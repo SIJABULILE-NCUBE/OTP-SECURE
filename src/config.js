@@ -1,4 +1,4 @@
-// this file holds all the settings that the spec calls "X"
+// this file holds al the settings that the spec calls "X"
 // keeping them here means i can change any rule from one place
 // instead of hunting through the whole project for a number
 
